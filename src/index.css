@@ -5,9 +5,24 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: aliceblue;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+
+
+.counter{
+  font-size: 120%;
+  position: relative;
+  top: 10vh;
+  border: 2px solid;
+  border-radius: 30pxm;
+  border-radius: 60px;
+  padding: 10px;
+  background: #9C27B0;
+  color: white;
 }
